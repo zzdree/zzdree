@@ -87,7 +87,7 @@
 ```text
 Audio & DSP        │ STFT, FFT (Cooley-Tukey DIT), Hann Windowing, MIR (RMS, Centroid, Chroma, MFCC, Flux)
 Affective Compute  │ Russell Circumplex Model 2D (Valence-Arousal), Cross-Modal Color Mapping (HSV-RGBW)
-Stage & Lighting   │ Art-Net 4, DMX512-A, RS-485 Serial, grandMA2/3 onPC, QLC+ (v4 & v5 3D)
+Stage & Lighting   │ Art-Net 4, DMX512-A, QLC+ Profiles (zz-fixture), 3D Simulator (zz-spectra), grandMA2/3 onPC
 Hardware & IoT     │ ESP32 Dual-Core (Tensilica LX6), FreeRTOS SMP, MAX485, I2C, Arduino C++
 Languages          │ Python, TypeScript, JavaScript, C++, C, SQL, HTML5 / CSS3
 Frontend / UI      │ PySide6 (Qt6), Next.js, React, Tailwind CSS, Vite, Three.js
