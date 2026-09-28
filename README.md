@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/zzdree/gia-deliksari-web">GIA Deliksari Web Portal</a></h3>
+      <h3>🏛️ <a href="https://gia-deliksari-web.vercel.app">GIA Deliksari Web Portal</a></h3>
       <p>Production church operational portal and public community platform. Engineered with modern serverless architecture on Cloudflare D1 (SQLite at the edge), R2 asset storage, and OpenNext integration.</p>
       <p><code>Next.js 15</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Cloudflare D1/R2</code></p>
     </td>
@@ -68,14 +68,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/zzdree/ip26-intercom">IP26 PTT Intercom</a></h3>
-      <p>Zero-install, browser-based push-to-talk intercom system designed for live stage crews on local venue Wi-Fi networks without requiring external internet connectivity.</p>
-      <p><code>Node.js</code> • <code>WebRTC P2P Mesh</code> • <code>WebSocket</code> • <code>Mobile Web</code></p>
+      <h3>🌐 <a href="https://github.com/zzdree/zz-spectra">zz-spectra 3D Simulator</a></h3>
+      <p>A responsive browser-based 3D stage lighting simulator, fixture patch manager, and show-control cue rehearsal workspace built with Three.js and Vite.</p>
+      <p><code>Three.js</code> • <code>WebGL</code> • <code>Vite</code> • <code>Stage Simulation</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/zzdree/ip26-production">IP26 Production Suite</a></h3>
-      <p>Master operational rundown, cue execution system, and multimedia inventory management pipeline for live broadcast productions at UNNES Auditorium.</p>
-      <p><code>Event Production</code> • <code>Supabase Realtime</code> • <code>Cue Automation</code></p>
+      <h3>💡 <a href="https://github.com/zzdree/zz-fixture">zz-fixture Profiles</a></h3>
+      <p>Custom QLC+ fixture definition library (.qxf) for Alien AL36 (36-LED RGB) stage wash and Kumastb STL47 (12-LED RGBW) bench-testing fixtures.</p>
+      <p><code>QLC+</code> • <code>DMX512</code> • <code>XML / .qxf</code> • <code>Stage Fixtures</code></p>
     </td>
   </tr>
 </table>
